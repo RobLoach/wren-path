@@ -1,0 +1,4 @@
+[submodule "vendor/assert"]
+	path = vendor/assert
+	url = https://github.com/RobLoach/wren-assert.git
+	ignore = dirty
