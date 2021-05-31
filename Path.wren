@@ -1,3 +1,10 @@
+/**
+ * Path manipulation library for Wren.
+ *
+ * @author Rob Loach (@RobLoach)
+ * @license MIT
+ * @website https://github.com/RobLoach/wren-path
+ */
 class Path {
     static basename(path) {
         if (!(path is String)) {
